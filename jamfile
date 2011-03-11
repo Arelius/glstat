@@ -1,0 +1,3 @@
+LINK = g++ ;
+LINKFLAGS = -framework OpenGL -framework GLUT ;
+Main glstat : main.cpp ;
